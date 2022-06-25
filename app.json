@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/673888368/newupdate/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/kissallworld/newonejoin/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/673888368/newupdate/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/kissallworld/newonejoin/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "加密方式",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/673888368/newupdate/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/kissallworld/newonejoin/master/etc/StoreFiles"
         }
     },
     "website": "https://aicn.site/",
-    "repository": "https://github.com/673888368/newupdate/",
+    "repository": "https://github.com/kissallworld/newonejoin/",
     "stack": "container"
 }

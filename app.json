@@ -1,6 +1,6 @@
 ﻿{
-    "name": "trynewone2.0",
-    "description": "trynewone2.0",
+    "name": "ljstpubi2",
+    "description": "ljstpubi2",
     "keywords": ["v2ray2.0"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID",
-            "value": "0428322a-401c-4918-98cf-946e696ed51c"
+            "value": "90f9b222-9cc7-4a37-9c94-59aad7b9afea"
         },
         "CADDYIndexPage": {
             "description": "CADDY显示页面",

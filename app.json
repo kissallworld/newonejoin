@@ -1,6 +1,6 @@
 ﻿{
-    "name": "ljstpkok9",
-    "description": "ljstpkok9",
+    "name": "ljstproj14",
+    "description": "ljstproj14",
     "keywords": ["v2ray2.0"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID",
-            "value": "4330482d-f9a5-4fb5-a4f7-dc26f5742265"
+            "value": "6bf7c360-8357-4e4d-aa8a-5dda5e859970"
         },
         "CADDYIndexPage": {
             "description": "CADDY显示页面",

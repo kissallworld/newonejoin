@@ -1,6 +1,6 @@
 ﻿{
-    "name": "ljstpxev19",
-    "description": "ljstpxev19",
+    "name": "ljstprod26",
+    "description": "ljstprod26",
     "keywords": ["v2ray2.0"],
     "env": {
         "AA": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID",
-            "value": "cfaec857-fd05-4a78-bc4c-ff0017aaa4a8"
+            "value": "b4ba2137-7bf9-48dc-a2f1-be51ca06460e"
         },
         "CADDYIndexPage": {
             "description": "CADDY显示页面",
